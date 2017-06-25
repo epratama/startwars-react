@@ -1,8 +1,12 @@
 # startwars-react
 Startwars API with ReactJS
 
-Dev mode:
+How to run the code.
+
+Dev mode
+--------
 npm start
 
-Produciton mode:
+Production mode - minified version
+----------------------------------
 npm run build:prod
